@@ -4,11 +4,11 @@
 
 #### Repositories
 
-* [Origin Repository](https://github.com/cogroid/o-gc-8-0-6)
+* [Origin Repository: cogroid/o-gc-8-0-6](https://github.com/cogroid/o-gc-8-0-6)
 
-* [Sponsorware Repository](https://github.com/cogroid/sw-gc-8-0-6)
+* [Sponsorware Repository: cogroid/sw-gc-8-0-6](https://github.com/cogroid/sw-gc-8-0-6)
 
-* [Public Repository](https://github.com/cogroid/d-gc-8-0-6)
+* [Public Repository: cogroid/d-gc-8-0-6](https://github.com/cogroid/d-gc-8-0-6)
 
 #### Sponsor me
 

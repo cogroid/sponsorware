@@ -2,7 +2,7 @@
 
 # Sponsorware of cogroid's project
 
-### [00001] Build gc 8.0.6 for armv7-a
+### [00001] [Build gc 8.0.6 for armv7-a](https://github.com/cogroid/sponsorware/tree/main/00001)
 
 * By [sponsor me $150 / month](https://github.com/sponsors/cogroid), you will have access to [sponsorware repositories](https://github.com/cogroid/l-sponsorware), including [cogroid/sw-gc-8-0-6](https://github.com/cogroid/sw-gc-8-0-6).
 

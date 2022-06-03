@@ -2,6 +2,19 @@
 
 # [00002] Build scheme2js for Android
 
+#### Install & Run Demo
+
+1. Download [datomspace-tester.apk](https://github.com/cogroid/b-obstacles/releases/download/obstacle-00001-001/datomspace-tester.apk)
+
+2. Install datomspace-tester.apk (Do not run!)
+
+3. Go to Settings -> Apps -> dAtomSpace Tester. Set Storage permission.
+
+4. Run dAtomSpace Tester
+
+5. View results in datomspace-test.txt file in Download folder
+
+
 #### Repositories
 
 * [Origin Repository: cogroid/o-scheme2js](https://github.com/cogroid/o-scheme2js)

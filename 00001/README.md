@@ -12,7 +12,7 @@
 
 #### Sponsor me
 
-* By [sponsoring me $150 / month](https://github.com/sponsors/cogroid), you will have access to [sponsorware repositories](https://github.com/cogroid/l-sponsorware), including [cogroid/sw-gc-8-0-6](https://github.com/cogroid/sw-gc-8-0-6).
+* By [sponsoring me $15 / month](https://github.com/sponsors/cogroid), you will have access to [sponsorware repositories](https://github.com/cogroid/l-sponsorware), including [cogroid/sw-gc-8-0-6](https://github.com/cogroid/sw-gc-8-0-6).
 
 * By [being sponsored $300 / month](https://github.com/sponsors/cogroid), I will public this feature to [cogroid/d-gc-8-0-6](https://github.com/cogroid/d-gc-8-0-6)
 

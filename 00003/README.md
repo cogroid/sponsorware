@@ -72,7 +72,7 @@
 
 * [d-guile](https://github.com/cogroid/d-guile)
 
-* [D-cogutil](https://github.com/cogroid/d-cogutil)
+* [d-cogutil](https://github.com/cogroid/d-cogutil)
 
 * [d-atomspace](https://github.com/cogroid/d-atomspace)
 
